@@ -9,9 +9,9 @@ while True:
 4  -> Division
 5  -> Power (x^y)
 6  -> Square Root
-7  -> Sin
-8  -> Cos
-9  -> Tan
+7  -> Sine
+8  -> Cosine
+9  -> Tangent
 10 -> Log10
 11 -> Ln
 0  -> Exit
